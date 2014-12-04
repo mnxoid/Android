@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="i1" id="q">33</integer>
+	<color name="c0">#ADD8E6</color>
+    <color name="c1">#00CCCC</color>
+    <color name="c2">#0000CD</color>
+    <color name="c3">#367588</color>
+    <color name="c4">#00008B</color>
+    <color name="c5">#FF0000</color>
+    <color name="c6">#FFB6C1</color>
+    <color name="c7">#E75480</color>
+    <color name="c8">#8B0000</color>
+    <color name="c9">#E0B0FF</color>
+    <color name="c10">#FF00FF</color>
+    <color name="c11">#800080</color>
+    <color name="c12">#B57EDC</color>
+    <color name="c13">#FFFF00</color>
+    <color name="c14">#FFFFED</color>
+    <color name="c15">#FFDB58</color>
+    <color name="c16">#FFD700</color>
+    <color name="c17">#FF7F00</color>
+    <color name="c18">#FBCEB1</color>
+    <color name="c19">#FF7F50</color>
+    <color name="c20">#B7410E</color>
+    <color name="c21">#F400A1</color>
+    <color name="c22">#4CBB17</color>
+    <color name="c23">#6B8E23</color>
+    <color name="c24">#355E3B</color>
+    <color name="c25">#32CD32</color>
+    <color name="c26">#F5F5DC</color>
+    <color name="c27">#964B00</color>
+    <color name="c28">#000000</color>
+    <color name="c29">#808080</color>
+    <color name="c30">#36454F</color>
+    <color name="c31">#FFFFFF</color>
+    <color name="c32">#FFFDD0</color>
+    <color name="c33">#D2B48C</color>
+</resources>
