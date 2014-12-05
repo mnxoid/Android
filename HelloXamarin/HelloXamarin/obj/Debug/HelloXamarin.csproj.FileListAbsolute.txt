@@ -1,0 +1,13 @@
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\bin\Debug\HelloXamarin.dll
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\bin\Debug\HelloXamarin.pdb
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\bin\Debug\HelloXamarin.dll.mdb
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\bin\Debug\HelloXamarin.HelloXamarin.apk
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\bin\Debug\HelloXamarin.HelloXamarin-Signed.apk
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\obj\Debug\HelloXamarin.dll
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\obj\Debug\HelloXamarin.pdb
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\obj\Debug\android\bin\HelloXamarin.HelloXamarin.apk
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\obj\Debug\res\layout\main.xml
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\obj\Debug\res\values\strings.xml
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\obj\Debug\res\drawable\icon.png
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\obj\Debug\R.cs.flag
+C:\Users\Mnxoid\Documents\GitHub\Android\HelloXamarin\HelloXamarin\obj\Debug\uploadflags.txt
