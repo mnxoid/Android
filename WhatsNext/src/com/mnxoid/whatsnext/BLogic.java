@@ -269,7 +269,7 @@ public class BLogic {
 			table = nextable;
 		}
 		if(table[1][0]==0)secpair = true;
-		if (secpair) currStamp+=2*45*60+20*60;
+		if (secpair && nextday) currStamp+=2*45*60+20*60;
 		secondsNow = currStamp % 60;
 		minutesNow = currStamp / 60;
 		hoursNow = minutesNow / 60;
